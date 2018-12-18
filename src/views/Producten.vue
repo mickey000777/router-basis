@@ -2,6 +2,7 @@
 
 <div class="producten">
     <h1>Producten</h1>
+    <h2>Bekijk onze fantastische producten</h2>
 
 </div>
     
